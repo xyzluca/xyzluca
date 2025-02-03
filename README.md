@@ -1,13 +1,8 @@
-### luca kursawe
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucakursawe"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"></a>
-  <a href="https://www.unsplash.com/lucakursawe"><img src="https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white" alt="Unsplash Badge"></a>
-</p>
+![Gif](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
-### about me
-- i'm a 4th semester computer science student from cologne, germany.
-- i like creative stuff like photography, videography and music.
-
+# hey, im luca!
+- 4th semester computer science student from cologne, germany.
+- coding, design, photography, lifting
 - working on: finishing this degree and creating a better portfolio website
-- currently getting better at: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS Badge"/>
+- skills im working on right now:  HTML, CSS and JavaScript
 

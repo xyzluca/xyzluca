@@ -1,4 +1,3 @@
-# ✱ lucakursawe ✱
 ## CS Student at RH Köln ✱ Creative Technologist ✱ Open to Data, Design & Development
 
 I enjoy working on projects that combine creativity and logic — from building websites and visual interfaces to analyzing data and creating photo or video content. My background bridges computer science with design tools and communication.
